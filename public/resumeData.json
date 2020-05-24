@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name":"Jayant Kokitkar",
+    "occupation":"Software Engineer",
+    "description":"A Computer science and Information Technology professional seeking a challenging opportunity to work for an organization to enhance my knowledge, skills and techniques which can be beneficial to the organization.",
+    "image":"profilepic.jpg",
+    "bio":"Looking forward to an opportunity for working in a dynamic, challenging environment, where I can utilize my skills for developing my career and the growth of an organization.",
+    "contactmessage":"Regarding any queries please contact me without hesitation",
+    "email": "kokitkarjayant@gmail.com",
+    "phone": "9637863885",
+    "address":{
+      "street":"At post-Sule",
+      "city":"Kolhapur",
+      "state":"Maharashtra",
+      "zip": "416505"
+    },
+    "website": "https://docs.google.com/document/d/1A8wHwDXUz1VMb6g7mEbuS_b2AISaIzJzYfWqa2-HORg/edit?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/1A8wHwDXUz1VMb6g7mEbuS_b2AISaIzJzYfWqa2-HORg/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jayant.kokitkar.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/JayantKokitkar?s=03",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jayant-kokitkar-414417172",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jayant_kokitkar",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jayantkokitkar",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Bachelor of Technology",
+        "degree":"Rajarambapu Institute Of Technology,Islampur",
+        "graduated":"July-2017-present",
+        "description":"Computer Science and Information Technology"
+      },
+      {
+        "school":"Higher Secondary School Certificate (HSC)",
+        "degree":"Maharashtra State Board",
+        "graduated":"Jun 2016 - May 2017 ",
+        "description":"Science"
+      },
+        {
+        "school":"Secondary School Certificate (SSC)",
+        "degree":"Maharashtra State Board",
+        "graduated":"May 2016 - complected ",
+        "description":"-"
+      }
+    ],
+      "courses":[
+        {
+        "school":"STTP workshop on Data Science ",
+        "degree":"Mitu Skillogies",
+        "graduated":"June 2019",
+        "description":"STTP workshop on Data Science using python  conducted by Mitu Skill0logics.    "  
+        },
+          {
+        "school":"Introduction to computer vision  ",
+        "degree":"Coursera",
+        "graduated":"May2020",
+        "description":" Introduction to computer vision with IBM watson and opencv      "  
+        },
+             {
+        "school":"Full stack web development  ",
+        "degree":"Coursera",
+        "graduated":"persuing",
+        "description":" Full stack web development with React "  
+        }
+      ],
+    "work":[
+      {
+        "company":"Hospital management system using c#",
+        "title":"Third Year Project  (Team leader) ",
+        "years":"2020",
+        "description":"This project helps to automate regular hospital management activities such as Billing , appointment , inventory management,etc."
+      },
+      {
+        "company":"Object Tracking with openCV and python ",
+        "title":"Second year project (Team leader)",
+        "years":"2019",
+        "description":"This project uses the concept of computer vision for object detection"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"GIT",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"c#.net",
+        "level":"80%"
+      },
+        {
+        "name":"Android",
+        "level":"80%"
+      },
+      {
+        "name":"MySql",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Best Suitable crop",
+        "category":"A wix-site made to find best suitable crop for given ph",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://kokitkarjayant.wixsite.com/mysite-2"
+      },
+        {
+        "title":"Hospital Management System(c# application)",
+        "category":"A desktop application for hospital management.",
+        "image":"hospitalm.jpg",
+        "url":"#"
+      },
+        {
+        "title":"Object Tracking with opencv",
+        "category":"A case study to understand object tracking algorithms.",
+        "image":"objt.jpg",
+        "url":"https://www.coursera.org/account/accomplishments/verify/LGUCRMJ398CH?utm_source=link&utm_campaign=copybutton_certificate&utm_product=project"
+      },
+        {
+        "title":"My first react app",
+        "category":"My portfolio cum resume.",
+        "image":"portwali.jpg",
+        "url":"#"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Elite certification in programming, data structure and algorithm using python by NPTEL.",
+        "user":"October 2019"
+      },
+        {
+        "text":"Certification in Node-RED: basics to bots by Cognitive class an initiative by IBM.",
+        "user":"May 2020"
+      },
+      {
+        "text":"Earned Golden badge with 5 stars  for python on hackerrank.",
+        "user":"December 2019"
+      }
+    ]
+  }
+}
